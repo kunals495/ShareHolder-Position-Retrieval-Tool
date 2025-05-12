@@ -1,7 +1,8 @@
 # 📊 B3 Shareholder Position Retrieval Tool
 
 A **Streamlit web app** to automate the retrieval of **shareholder data** for Brazilian companies listed on **B3 (Brasil Bolsa Balcão)** using an uploaded Excel file. The app fetches data through B3's public API, processes it, and allows users to download the results in a well-formatted Excel sheet.
-
+---
+*It Reduced data entry time from hours to under a minute for 100+ tickers and saved 5+ hours of manual work*
 ---
 
 ## 🎯 What It Does
